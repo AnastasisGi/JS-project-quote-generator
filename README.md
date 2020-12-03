@@ -1,6 +1,6 @@
 # JS-project-quote-generator
 
-This is a simple training app based on HTML, CSS and Javascript.
+This is a quote-generator app based on HTML, CSS and Javascript.
 
 Fething the data in JSON format from the API https://type.fit/api/quotes and saving it in a variable.
 Dynamically inserting a random quote into the DOM on initial loading.
